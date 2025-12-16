@@ -1,0 +1,26 @@
+# Byte-compiled / cache
+__pycache__/
+*.py[cod]
+
+# Notebooks checkpoints
+.ipynb_checkpoints/
+
+# Outputs and caches
+*.npy
+*.npz
+*.png
+*.eps
+*.nc
+
+# Virtual environments
+.venv/
+env/
+venv/
+
+# DATA
+PositionUncertainty/DATA/MSEED/*
+ClockInstability/samples/*
+
+# MSNoise
+*.ini
+*.sqlite

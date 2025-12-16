@@ -1,0 +1,52 @@
+cff-version: 1.2.0
+title: >-
+  Code for Evaluating Multi-Agent and Wavelet-Transform
+  Uncertainties in Lunar Seismic Ambient Noise Exploration
+message: >-
+  If you use this software, please cite both the paper and
+  this repository.
+type: software
+authors:
+  - family-names: Nierula
+    given-names: Kai
+    orcid: 'https://orcid.org/0009-0003-2902-8517'
+  - family-names: Keil
+    given-names: Sabrina
+    orcid: 'https://orcid.org/0000-0003-0503-2020'
+identifiers:
+  - type: doi
+    value: 10.26090/CKHM-HN79
+repository-code: 'https://github.com/DLR-KN/LunarANI-UQ'
+license: Apache-2.0
+version: 1.0.0
+date-released: '2025-12-18'
+
+preferred-citation:
+  type: article
+  title: >-
+    Evaluating Multi-Agent and Wavelet-Transform Uncertainties in Lunar Seismic
+    Ambient Noise Exploration
+  authors:
+    - family-names: Nierula
+      given-names: Kai
+      orcid: 'https://orcid.org/0009-0003-2902-8517'
+      affiliation: German Aerospace Center (DLR)
+    - family-names: Keil
+      given-names: Sabrina
+      orcid: 'https://orcid.org/0000-0003-0503-2020'
+      affiliation: Ludwig-Maximilians-Universität München (LMU)
+    - family-names: Shutin
+      given-names: Dmitriy
+      orcid: 'https://orcid.org/0000-0002-6065-6453'
+      affiliation: German Aerospace Center (DLR)
+    - family-names: Shin
+      given-names: Ban-Sok
+      orcid: 'https://orcid.org/0000-0002-8956-4608'
+      affiliation: German Aerospace Center (DLR)
+    - family-names: Igel
+      given-names: Heiner
+      orcid: 'https://orcid.org/0000-0002-7242-6399'
+      affiliation: Ludwig-Maximilians-Universität München (LMU)
+  journal: #Earth and Space Science
+  year: # TODO
+  doi: # TODO
