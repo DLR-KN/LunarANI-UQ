@@ -48,14 +48,15 @@ If you use this code, please cite the associated paper for the scientific method
 
 ```
 @article{NierulaPaper2026,
-author = {Nierula, Kai and Keil, Sabrina and Shutin, Dmitriy and Shin, Ban-Sok and Igel, Heiner},
-title = {Evaluating Multi-Agent and Wavelet-Transform Uncertainties in Lunar Seismic Ambient Noise Exploration},
-journal = {Earth and Space Science},
-volume = {13},
-number = {2},
-pages = {e2025EA004631},
-doi = {https://doi.org/10.1029/2025EA004631},
-year = {2026}
+  author = {Nierula, Kai and Keil, Sabrina and Shutin, Dmitriy and Shin, Ban-Sok and Igel, Heiner},
+  title = {Evaluating Multi-Agent and Wavelet-Transform Uncertainties in Lunar Seismic Ambient Noise Exploration},
+  journal = {Earth and Space Science},
+  volume = {13},
+  number = {2},
+  pages = {e2025EA004631},
+  doi = {https://doi.org/10.1029/2025EA004631},
+  year = {2026}
+}
 ```
 
 ```
