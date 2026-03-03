@@ -44,9 +44,19 @@ The impact of localization errors, CWT-uncertainty, and a combination of both ca
 [03_ANI_Overview.ipynb](PositionUncertainty/03_ANI_Overview.ipynb) reproduces the figures used to explain the concept of ANI in the paper.
 
 ### Citing
-If you use this code, please cite the associated paper for the scientific method and results, and cite this repository for the software implementation (see right-hand side of the landing page or [Citation info](CITATION.cff)).
+If you use this code, please cite the associated paper for the scientific method and results, and cite this repository for the software implementation.
 
-As the paper is currently in the review process, in the meantime please use this citation:
+```
+@article{NierulaPaper2026,
+author = {Nierula, Kai and Keil, Sabrina and Shutin, Dmitriy and Shin, Ban-Sok and Igel, Heiner},
+title = {Evaluating Multi-Agent and Wavelet-Transform Uncertainties in Lunar Seismic Ambient Noise Exploration},
+journal = {Earth and Space Science},
+volume = {13},
+number = {2},
+pages = {e2025EA004631},
+doi = {https://doi.org/10.1029/2025EA004631},
+year = {2026}
+```
 
 ```
 @misc{NierulaCode2025,
