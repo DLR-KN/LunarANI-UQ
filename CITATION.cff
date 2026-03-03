@@ -47,6 +47,8 @@ preferred-citation:
       given-names: Heiner
       orcid: 'https://orcid.org/0000-0002-7242-6399'
       affiliation: Ludwig-Maximilians-Universität München (LMU)
-  journal: #Earth and Space Science
-  year: # TODO
-  doi: # TODO
+  journal: Earth and Space Science
+  volume: 13
+  issue: 2
+  date-published: '2026-02-01'
+  doi: 10.1029/2025EA004631
