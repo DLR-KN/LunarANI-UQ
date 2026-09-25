@@ -47,8 +47,8 @@ The impact of localization errors, CWT-uncertainty, and a combination of both ca
 If you use this code, please cite the associated paper for the scientific method and results, and cite this repository for the software implementation.
 
 ```
-@article{NierulaPaper2026,
-  author = {Nierula, Kai and Keil, Sabrina and Shutin, Dmitriy and Shin, Ban-Sok and Igel, Heiner},
+@article{LoehrPaper2026,
+  author = {L{\"{o}}hr, Kai and Keil, Sabrina and Shutin, Dmitriy and Shin, Ban-Sok and Igel, Heiner},
   title = {Evaluating Multi-Agent and Wavelet-Transform Uncertainties in Lunar Seismic Ambient Noise Exploration},
   journal = {Earth and Space Science},
   volume = {13},
@@ -60,8 +60,8 @@ If you use this code, please cite the associated paper for the scientific method
 ```
 
 ```
-@misc{NierulaCode2025,
-  author = {Nierula, Kai and Keil, Sabrina},
+@misc{LoehrCode2025,
+  author = {L{\"{o}}hr, Kai and Keil, Sabrina},
   title = {Code for Evaluating Multi-Agent and Wavelet-Transform Uncertainties in Lunar Seismic Ambient Noise Exploration},
   publisher = {Deutsches Zentrum für Luft- und Raumfahrt e. V. (DLR)},
   doi = {10.26090/CKHM-HN79},
