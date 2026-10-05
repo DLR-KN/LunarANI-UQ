@@ -7,7 +7,7 @@ message: >-
   this repository.
 type: software
 authors:
-  - family-names: Nierula
+  - family-names: Löhr
     given-names: Kai
     orcid: 'https://orcid.org/0009-0003-2902-8517'
   - family-names: Keil
@@ -27,7 +27,7 @@ preferred-citation:
     Evaluating Multi-Agent and Wavelet-Transform Uncertainties in Lunar Seismic
     Ambient Noise Exploration
   authors:
-    - family-names: Nierula
+    - family-names: Löhr
       given-names: Kai
       orcid: 'https://orcid.org/0009-0003-2902-8517'
       affiliation: German Aerospace Center (DLR)
